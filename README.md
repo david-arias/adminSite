@@ -1,4 +1,5 @@
-# Admin site || [![Build Status](https://travis-ci.com/david-arias/adminSite.svg?branch=master)](https://travis-ci.com/david-arias)
+# Admin site || [![Build Status](https://travis-ci.com/david-arias/adminSite.svg?branch=master)](https://travis-ci.com/david-arias)  [![License](https://img.shields.io/github/license/david-arias/adminSite.svg?style=flat)](https://travis-ci.com/david-arias) 
+
 -------------
 
 [//]: [![N|Solid](https://cldup.com/dTxpPi9lDf.thumb.png)](https://nodesource.com/products/nsolid)
@@ -11,8 +12,8 @@ Admin site Test repository using:
 #### Tech
 The project has two main folders
 
-* [backEnd] - Node backEnd for REST API
-* [frontEnd] - designed page to test de REST API calls (Angular)
+* [/backEnd] - Node backEnd for REST API
+* [/frontEnd] - designed page to test de REST API calls (Angular)
 
 #### Installation
 ```
