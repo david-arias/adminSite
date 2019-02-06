@@ -1,0 +1,25 @@
+
+### Angular ###
+/dist
+/tmp
+
+# dependencies
+/node_modules
+/bower_components
+
+# misc
+/.sass-cache
+
+#System Files
+.DS_Store
+
+# Thumbnails
+._*
+
+# Dependency directories
+node_modules/
+jspm_packages/
+
+# dotenv environment variables file
+.env
+.env.test
